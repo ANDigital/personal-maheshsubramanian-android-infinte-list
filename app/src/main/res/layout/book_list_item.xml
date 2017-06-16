@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/card_view"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/card_height"
+    card_view:cardCornerRadius="4dp"
+    card_view:cardBackgroundColor="@color/accent">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="8dp"
+        >
+
+        <RelativeLayout
+            android:id="@+id/book_list_rlImageSection"
+            android:layout_width="@dimen/thumbnail_size"
+            android:layout_height="match_parent"
+            android:layout_marginRight="16dp">
+
+            <ImageView
+                android:id="@+id/book_list_imgThumbnail"
+                android:layout_width="@dimen/thumbnail_size"
+                android:layout_height="@dimen/thumbnail_size"
+                android:layout_centerHorizontal="true"
+                android:layout_centerInParent="true"
+                tools:src="@android:drawable/btn_minus" />
+
+            <FrameLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/book_list_imgThumbnail">
+            </FrameLayout>
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/book_list_txtTitle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:maxLines="2"
+                android:textColor="@color/primary_text"
+                android:textSize="@dimen/text_sizeLarge"
+                android:textStyle="bold"
+                tools:text="Book title that can be really long and descriptive" />
+
+            <TextView
+                android:id="@+id/book_list_txtSubTitle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:lines="2"
+                android:maxLines="2"
+                android:textColor="@color/secondary_text"
+                android:textSize="@dimen/text_sizeMedium"
+                android:textStyle="normal"
+                android:layout_marginBottom="10dp"
+                tools:text="Long subtitle text over 2 lines goes here and should wrap up" />
+
+            <TextView
+                android:id="@+id/book_list_txtAuthors"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:lines="2"
+                android:textColor="@color/secondary_text"
+                android:textSize="@dimen/text_sizeMedium"
+                android:textStyle="italic"
+                tools:text="author1, author2" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>

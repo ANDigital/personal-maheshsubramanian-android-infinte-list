@@ -1,0 +1,805 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2833,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "98Air5iXd7QC",
+      "etag": "BeKsfT7YmxM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/98Air5iXd7QC",
+      "volumeInfo": {
+        "title": "Quilting with Strips and Strings",
+        "subtitle": "With Complete Instructions for Making 46 Patchwork Quilts",
+        "authors": [
+          "Helen Whitson Rose"
+        ],
+        "publisher": "Courier Corporation",
+        "publishedDate": "1983",
+        "description": "Quickest, easiest way to turn left-over fabric into handsome quilt. 46 patchwork quilts; 31 full-size templates.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0486243575"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780486243573"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 64,
+        "printType": "BOOK",
+        "categories": [
+          "Crafts & Hobbies"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.1.1.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=98Air5iXd7QC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=98Air5iXd7QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=98Air5iXd7QC&pg=PA3&dq=quilting&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=98Air5iXd7QC&dq=quilting&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Quilting_with_Strips_and_Strings.html?hl=&id=98Air5iXd7QC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Quilting_with_Strips_and_Strings-sample-pdf.acsm?id=98Air5iXd7QC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=98Air5iXd7QC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "1 i * A A Introduction Admirers of beautiful <b>quilts</b> have been heard to remark. &quot;I&#39;d <br>\nlike to be able to make a <b>quilt</b> someday. but I just don&#39;t have the patience to cut <br>\nand sew all those little pieces together.&quot; <b>Quilting</b> with strips and strings is a <br>\nperfect&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MQneD8cQ5KAC",
+      "etag": "Z48SdKFKr4Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MQneD8cQ5KAC",
+      "volumeInfo": {
+        "title": "The Quilters Ultimate Visual Guide",
+        "subtitle": "From A to Z--hundreds of Tips and Techniques for Successful Quiltmaking",
+        "authors": [
+          "Ellen Pahl"
+        ],
+        "publisher": "Rodale",
+        "publishedDate": "1997",
+        "description": "Contains over 700 how-to illustrations for backing quilts, embellishment, paper piecing, machine quilting, and using templates and stencils",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0875967108"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780875967103"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "categories": [
+          "Crafts & Hobbies"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 8,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MQneD8cQ5KAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MQneD8cQ5KAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=MQneD8cQ5KAC&printsec=frontcover&dq=quilting&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=MQneD8cQ5KAC&dq=quilting&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Quilters_Ultimate_Visual_Guide.html?hl=&id=MQneD8cQ5KAC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MQneD8cQ5KAC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Contains over 700 how-to illustrations for backing quilts, embellishment, paper piecing, machine quilting, and using templates and stencils"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OSVuwrpQw68C",
+      "etag": "76JqgdKJNxg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OSVuwrpQw68C",
+      "volumeInfo": {
+        "title": "Quick Country Quilting",
+        "subtitle": "Over 80 Projects Featuring Easy, Timesaving Techniques",
+        "authors": [
+          "Debbie Mumm"
+        ],
+        "publisher": "Rodale",
+        "publishedDate": "1995-12-15",
+        "description": "Outlines methods for quick cutting, piecing, and applique, and includes directions for such projects as wall quilts, holiday decorations, pillows, baby accessories, and sweatshirts",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0875967418"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780875967417"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": [
+          "Crafts & Hobbies"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OSVuwrpQw68C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OSVuwrpQw68C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=OSVuwrpQw68C&printsec=frontcover&dq=quilting&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=OSVuwrpQw68C&dq=quilting&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Quick_Country_Quilting.html?hl=&id=OSVuwrpQw68C"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OSVuwrpQw68C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Debbie&#39;s quilt patterns are sold throughout the United States under the name Mumm&#39;s the Word. This is the first time her designs have been published in a book."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FcbBH-13BcUC",
+      "etag": "pAnHXQGqQLc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FcbBH-13BcUC",
+      "volumeInfo": {
+        "title": "Seasonal Quilting",
+        "subtitle": "A Year in Stitches",
+        "authors": [
+          "Cheryl Fall"
+        ],
+        "publisher": "Sterling Publishing (NY)",
+        "publishedDate": "1995-03-01",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "080698659X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780806986593"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 144,
+        "printType": "BOOK",
+        "categories": [
+          "Appliqué"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FcbBH-13BcUC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FcbBH-13BcUC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=FcbBH-13BcUC&q=quilting&dq=quilting&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=FcbBH-13BcUC&dq=quilting&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Seasonal_Quilting.html?hl=&id=FcbBH-13BcUC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FcbBH-13BcUC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lomDOyliLJsC",
+      "etag": "5N+chYxCrSo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lomDOyliLJsC",
+      "volumeInfo": {
+        "title": "Quilt Culture",
+        "subtitle": "Tracing the Pattern",
+        "authors": [
+          "Cheryl B. Torsney",
+          "Judy Elsley"
+        ],
+        "publisher": "University of Missouri Press",
+        "publishedDate": "1994",
+        "description": "As a blanket, a commemorative covering, and a work of art, the quilt is a nearly universal cultural artifact. In recent years it has been recognized as one of our most compelling symbols of cultural diversity and the power of women. In this collection, Cheryl B. Torsney and Judy Elsley bring together eleven provocative essays on the quilt as metaphor--in literature, history, politics, and philosphy. This interdisciplinary approach makes Quilt Culture an extraordinarily rich exploration of a cultural artifact whose meaning is far more complex than that of a simple bed covering.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0826209637"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780826209634"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 197,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lomDOyliLJsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lomDOyliLJsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=lomDOyliLJsC&printsec=frontcover&dq=quilting&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=lomDOyliLJsC&dq=quilting&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Quilt_Culture.html?hl=&id=lomDOyliLJsC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Quilt_Culture-sample-epub.acsm?id=lomDOyliLJsC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lomDOyliLJsC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In this collection, Cheryl B. Torsney and Judy Elsley bring together eleven provocative essays on the quilt as metaphor--in literature, history, politics, and philosphy."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5W-ChoTedM4C",
+      "etag": "EvhF4hEELBA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5W-ChoTedM4C",
+      "volumeInfo": {
+        "title": "Quilting For Dummies",
+        "authors": [
+          "Cheryl Fall"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2011-03-03",
+        "description": "Get the know-how you need to create beautiful quilts and decorative quilted items Quilting is a fun hobby -- but where do you begin? From selecting fabrics and designing a quilt to stitching by hand or machine, this friendly guide shows you how to put all the pieces together -- and create a wide variety of quilted keepsakes for your home. We'll have you in stitches in no time! Discover how to * Select the right fabrics and threads * Design your masterpiece * Use quilting software * Save time with rotary cutters and other cool tools * Quilt by hand or machine * Get creative with applique",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1118054660"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781118054666"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 384,
+        "printType": "BOOK",
+        "categories": [
+          "Crafts & Hobbies"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 5,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.8.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5W-ChoTedM4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5W-ChoTedM4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=5W-ChoTedM4C&pg=PA11&dq=quilting&hl=&cd=26&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=5W-ChoTedM4C&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-5W-ChoTedM4C"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 12.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 12.99,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=5W-ChoTedM4C&rdid=book-5W-ChoTedM4C&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Quilting_For_Dummies-sample-epub.acsm?id=5W-ChoTedM4C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Quilting_For_Dummies-sample-pdf.acsm?id=5W-ChoTedM4C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5W-ChoTedM4C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Patchwork is the most recognized form of <b>quilt</b> making and was devised as a way <br>\nto turn a bunch of fabric odds and ends into one cohesive unit, eliminating waste <br>\nby using any fabric available. Over the centuries it evolved into the art form we&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xt_-qyFy2PIC",
+      "etag": "bdt6umQk5XU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xt_-qyFy2PIC",
+      "volumeInfo": {
+        "title": "Quilting Designs From The Past",
+        "subtitle": "300+ Designs from 1810–1940",
+        "authors": [
+          "Jenny Carr kinney"
+        ],
+        "publisher": "C&T Publishing Inc",
+        "publishedDate": "2010-11-05",
+        "description": "Make Your Quilts Look Like Antiques with Authentic Period Quilting Designs. Over 300 historically accurate quilting designs, organized into four time periods to make it easy to find the right designs for your quilt. Essential reference guide for anyone interested in vintage and antique quilts. Designs for all skill levels, from beginner to advanced. Use for hand or machine quilting. You've created a beautiful quilt top in the style of your favorite era. But how do you quilt it? This huge collection of historic quilting designs has the answer. With hundreds of designs gathered from old quilts, patterns, books, magazines, and other original sources, you'll find the perfect quilting design to make your quilt look like it was created generations ago.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781607053835"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1607053837"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 128,
+        "printType": "BOOK",
+        "categories": [
+          "Crafts & Hobbies"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.1.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xt_-qyFy2PIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xt_-qyFy2PIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=xt_-qyFy2PIC&pg=PA124&dq=quilting&hl=&cd=27&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=xt_-qyFy2PIC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-xt_-qyFy2PIC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 17.41,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 11.32,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=xt_-qyFy2PIC&rdid=book-xt_-qyFy2PIC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 17410000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 11320000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Quilting_Designs_From_The_Past-sample-pdf.acsm?id=xt_-qyFy2PIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xt_-qyFy2PIC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Your <b>quilt</b> top is complete, and you have selected appro&#39; priate <b>quilting</b> patterns. <br>\nBefore you transfer the designs from the page to the cloth, check their size <br>\nagainst the space they will fill. You will probably need to reduce or enlarge the <br>\nimages&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iJrS9blx6fIC",
+      "etag": "PRMxebY7+qc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iJrS9blx6fIC",
+      "volumeInfo": {
+        "title": "Quilting 101",
+        "subtitle": "Master Basic Skills and Techniques Easily Through Step-by-Step Instruction",
+        "authors": [
+          "Creative Publishing International"
+        ],
+        "publisher": "Creative Publishing International",
+        "publishedDate": "2011-03-01",
+        "description": "\"Beginner's guide to quilting, teaches all the basic techniques through easy projects. Includes DVD-ROM\"--Provided by publisher.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781589235731"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1589235738"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 176,
+        "printType": "BOOK",
+        "categories": [
+          "Crafts & Hobbies"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.2.3.0.preview.3",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iJrS9blx6fIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iJrS9blx6fIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=iJrS9blx6fIC&pg=PA7&dq=quilting&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=iJrS9blx6fIC&dq=quilting&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Quilting_101.html?hl=&id=iJrS9blx6fIC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Quilting_101-sample-epub.acsm?id=iJrS9blx6fIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Quilting_101-sample-pdf.acsm?id=iJrS9blx6fIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iJrS9blx6fIC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book is written for the beginning <b>quilter</b>, but not everyone starts from the <br>\nsame place. Some beginners have sewing slcills but have never sewn a <b>quilt</b>. <br>\nOthers have never sewn a stitch but <b>quilting</b> is where they want to begin. For <br>\nsomeone&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kGhFfARr_o4C",
+      "etag": "QSP6zOa44VE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kGhFfARr_o4C",
+      "volumeInfo": {
+        "title": "Machine Quilting Solutions",
+        "subtitle": "Techniques for Fast & Simple to Award-Winning Designs",
+        "authors": [
+          "Christine Maraccini"
+        ],
+        "publisher": "C&T Publishing Inc",
+        "publishedDate": "2010-11-05",
+        "description": "You Really Can Quilt Every Top You Make! Quilting your projects is just as much fun as piecing them can be. Learn to \"decode\" your quilts to complete your quilt top. Freehand 49 topstitching designs that can be used time and time again with no marking. Did you know that your tops can tell you exactly how to quilt them? It’s true! Expert machine quilter Christine Maraccini guides you through every step, taking cues from the intended use of the quilt and the shapes and patterns created by your piecing and appliqué. Discover no-mark-motifs that fit each space and learn the techniques to apply them to your own unique quilt. Includes complete, step-by-step instructions for 6 quilts, including 3 different quilting options for each and 9 trapunto templates!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781607050650"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "160705065X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 96,
+        "printType": "BOOK",
+        "categories": [
+          "Crafts & Hobbies"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.2.1.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=kGhFfARr_o4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=kGhFfARr_o4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=kGhFfARr_o4C&pg=PT15&dq=quilting&hl=&cd=29&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=kGhFfARr_o4C&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-kGhFfARr_o4C"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 15.83,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 12.03,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=kGhFfARr_o4C&rdid=book-kGhFfARr_o4C&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 15830000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 12030000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/Machine_Quilting_Solutions-sample-pdf.acsm?id=kGhFfARr_o4C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kGhFfARr_o4C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Take out a blank sheet of paper and draw an informal sketch of your <b>quilt</b>. <br>\nAnother quick trick is to photocopy a picture of the <b>quilt</b> if you&#39;re using a design <br>\nfrom a magazine or book. No need to be fancy here; this is going to be your <br>\npersonal&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "R8azH_MRYBwC",
+      "etag": "2LmIO7rzV/U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/R8azH_MRYBwC",
+      "volumeInfo": {
+        "title": "The Thimbleberries Book of Quilts",
+        "subtitle": "Quilts of All Sizes Plus Decorative Accessories for Your Home",
+        "authors": [
+          "Lynette Jensen"
+        ],
+        "publisher": "Rodale",
+        "publishedDate": "1998-01-15",
+        "description": "Quilters love Lynette Jensen's designs for their strong sense of color and their folk art appeal. This book includes clear, step-by-step directions that allow even beginning crafters to learn how to make gorgeous quilted projects. Full-color layouts & how-to diagrams.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0875969631"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780875969633"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": [
+          "Crafts & Hobbies"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=R8azH_MRYBwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=R8azH_MRYBwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=R8azH_MRYBwC&pg=PT219&dq=quilting&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=R8azH_MRYBwC&dq=quilting&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Thimbleberries_Book_of_Quilts.html?hl=&id=R8azH_MRYBwC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=R8azH_MRYBwC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Knot the thread as you normally do and pull it through the top layer of fabric as <br>\nyou would with a knot made with regular <b>quilting</b> thread. You may need to <br>\nseparate the threads of the fabric a bit with the tip of your needle to allow the knot <br>\nto pop&nbsp;..."
+      }
+    }
+  ]
+}

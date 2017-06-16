@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Google Book Lister</string>
+    <string name="book_txtFilter">Filter listings by</string>
+</resources>
