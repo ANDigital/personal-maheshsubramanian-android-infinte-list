@@ -6,6 +6,8 @@ infinite scrolling.
 The API supports passing in different arguments to sort the retrieved data and this is invoked in the
 application using a spinner which lists the possible options.
 
+![Listing books](images/books-list-view.png)
+
 ### Application dependencies ###
 
 * Uses volley library for network calls
